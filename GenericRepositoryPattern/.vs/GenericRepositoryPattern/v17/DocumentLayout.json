@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\migrations\\20240808124759_addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:migrations\\20240808124759_addorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\appcode\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:appcode\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\genericrepositorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:genericrepositorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|c:\\users\\payal\\source\\repos\\morningstar\\github\\genericrepositorypattern\\genericrepositorypattern\\migrations\\20240808124039_authorsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0881257-93A6-4012-B7EC-ABD6E2B3938E}|GenericRepositoryPattern.csproj|solutionrelative:migrations\\20240808124039_authorsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240808124759_addOrders.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Migrations\\20240808124759_addOrders.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240808124759_addOrders.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Migrations\\20240808124759_addOrders.cs",
+              "RelativeToolTip": "Migrations\\20240808124759_addOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:48:00.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:44:59.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:44:06.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorModel.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Models\\AuthorModel.cs",
+              "RelativeDocumentMoniker": "Models\\AuthorModel.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Models\\AuthorModel.cs",
+              "RelativeToolTip": "Models\\AuthorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:21:11.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:13:18.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:45:17.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Repository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:08:45.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\AppCode\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "AppCode\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\AppCode\\MyDbContext.cs",
+              "RelativeToolTip": "AppCode\\MyDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA6wAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:11:23.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240808124039_AuthorSetup.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Migrations\\20240808124039_AuthorSetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240808124039_AuthorSetup.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Migrations\\20240808124039_AuthorSetup.cs",
+              "RelativeToolTip": "Migrations\\20240808124039_AuthorSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T12:40:39.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:32:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:10:22.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:22:28.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T12:20:42.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepositoryPattern.csproj",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\GenericRepositoryPattern.csproj",
+              "RelativeDocumentMoniker": "GenericRepositoryPattern.csproj",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\GenericRepositoryPattern.csproj",
+              "RelativeToolTip": "GenericRepositoryPattern.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T12:04:02.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\payal\\source\\repos\\Morningstar\\GitHub\\GenericRepositoryPattern\\GenericRepositoryPattern\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T12:22:53.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
